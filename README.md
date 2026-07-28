@@ -1,5 +1,5 @@
 <div align="center">
-<img width="4752" height="1188" alt="chroftnux_linkedin_banner_HQ" src="https://github.com/user-attachments/assets/c773b994-ca08-446e-b55f-c542ce5a4453" />
+<img width="1600" height="550" alt="chroftnux_banner_github" src="https://github.com/user-attachments/assets/a7ebee89-9a67-4e64-bd35-74c1bc58a45e" />
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=2D2D2D&center=true&vCenter=true&width=700&lines=Automatizaci%C3%B3n+de+procesos;Infraestructura+confiable;Redes+%26+Seguridad;DevOps+de+extremo+a+extremo" alt="tagline animada"/>
