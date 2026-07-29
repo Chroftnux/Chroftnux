@@ -102,45 +102,11 @@ Procesos operativos y flujos de datos convertidos en sistemas que corren solos, 
 <br/>
 
 <div align="center">
-
-## 📦 Casos de uso
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🔹 Science EviGrow
-*Estrategia de negocio a través de los datos*
-
-Plataforma de analítica descriptiva para comercio al detal: limpieza automática de datos, dashboards de ventas, ranking de vendedores y reporte fiscal exportable.
-
-<img src="https://skillicons.dev/icons?i=fastapi,python,react&theme=dark" />
-
-[![Ver repositorio](https://img.shields.io/badge/Ver_repositorio-2D2D2D?style=flat-square&logo=github&logoColor=E8DCC8)](https://github.com/chr-ahren/science-evigrow)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔹 Portfolio Web
-*Arquitectura full-stack contenedorizada*
-
-Backend y frontend desacoplados, con despliegue reproducible de extremo a extremo vía Docker Compose.
-
-<img src="https://skillicons.dev/icons?i=fastapi,react,docker&theme=dark" />
-
-[![Ver repositorio](https://img.shields.io/badge/Ver_repositorio-2D2D2D?style=flat-square&logo=github&logoColor=E8DCC8)](https://github.com/chr-ahren/portfolio-web)
-
-</td>
-</tr>
+  
 </table>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2D2D2D&height=3" width="100%"/>
 
 <div align="center">
-
-<br/>
 
 ## 📬 Contacto
 
