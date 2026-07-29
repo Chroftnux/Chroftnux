@@ -95,15 +95,9 @@ Procesos operativos y flujos de datos convertidos en sistemas que corren solos, 
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2D2D2D&height=3" width="100%"/>
-
-<br/>
-
-<div align="center">
-  
+<div align="center"> 
 </table>
+  
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2D2D2D&height=3" width="100%"/>
 
 <div align="center">
